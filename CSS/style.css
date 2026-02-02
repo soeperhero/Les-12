@@ -1,0 +1,37 @@
+/* Header styling */
+header {background-color: #DCEAF7;width: 100%;height: 40px;}
+
+/* Footer styling */
+footer {background-color: #DCEAF7;width: 100%;height: 30px;}
+
+/* Image styling */
+img {width: 300px;}
+
+/* Paragraph colors */
+.green {color: green;}
+
+.yellow {color: yellow;}
+
+/* Rij A */
+#A1 { background-color: #ff9999; }  /* licht rood */
+#A2 { background-color: #ffcc99; }  /* oranje */
+#A3 { background-color: #ffff99; }  /* geel */
+#A4 { background-color: #ccff99; }  /* lichtgroen */
+
+/* Rij B */
+#B1 { background-color: #99ff99; }  /* groen */
+#B2 { background-color: #99ffcc; }  /* mint */
+#B3 { background-color: #99ffff; }  /* lichtblauw */
+#B4 { background-color: #99ccff; }  /* blauw */
+
+/* Rij C */
+#C1 { background-color: #cc99ff; }  /* paars */
+#C2 { background-color: #ff99ff; }  /* roze */
+#C3 { background-color: #ff99cc; }  /* warm roze */
+#C4 { background-color: #ff6699; }  /* donker roze */
+
+/* Rij D */
+#D1 { background-color: #ff6666; }  /* rood */
+#D2 { background-color: #ffb366; }  /* oranje tint */
+#D3 { background-color: #ffff66; }  /* fel geel */
+#D4 { background-color: #b3ff66; }  /* limoengroen */
